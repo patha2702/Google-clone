@@ -1,0 +1,42 @@
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    width: 400px;
+}
+.inputSearch{
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    line-height: 40px;
+    font-weight: bold;
+    font-style: initial;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #6b7074;
+    border-radius: 30px;
+
+}
+.btnWrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.btn{
+    width: 150px;
+    line-height: 10px;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    border: 1px solid #dfe1ef;
+    margin-right: 4px;
+    margin-left: 4px;
+}
